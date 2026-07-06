@@ -1,0 +1,45 @@
+# .NET / ASP.NET Core
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+
+# SQLite (banco local de desenvolvimento)
+*.db
+*.db-shm
+*.db-wal
+
+# Node / React / Vite
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor e SO
+.vscode/
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+*.sw?
+
+# Build / cache
+*.tsbuildinfo
+.vite/
+
+# Variáveis de ambiente
+.env
+.env.*
+!.env.example
