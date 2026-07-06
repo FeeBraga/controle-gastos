@@ -147,4 +147,4 @@ Também foi configurado o relacionamento entre pessoas e transações com exclus
 
 No frontend, desenvolvi uma interface em React com TypeScript, realizando validações básicas para melhorar a experiência do usuário e consumindo a API por meio do Axios.
 
-Agradeço pela oportunidade de participar do processo seletivo e fico à disposição para esclarecer qualquer dúvida sobre a implementação ou as decisões técnicas adotadas no projeto.
+Agradeço pela atenção e fico à disposição para esclarecer qualquer dúvida sobre a implementação ou as decisões técnicas adotadas no projeto.
