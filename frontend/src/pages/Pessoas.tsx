@@ -37,14 +37,18 @@ export function Pessoas() {
     setNome("");
     setIdade("");
 
+    alert("Pessoa cadastrada com sucesso");
+
     carregar();
   }
 
   async function excluir(id: number) {
-    if (!confirm("Deseja remover esta pessoa?"))
+    if (!confirm("Tem certeza que deseja remover esta pessoa?"))
       return;
 
     await api.delete(`/pessoas/${id}`);
+
+    alert("Pessoa removida com sucesso");
 
     carregar();
   }
