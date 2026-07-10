@@ -1,6 +1,6 @@
 # 💰 Controle de Gastos
 
-Sistema desenvolvido como teste técnico utilizando **ASP.NET Core Web API**, **React**, **Entity Framework Core** e **SQLite** para gerenciamento de pessoas e transações financeiras.
+Sistema desenvolvido como teste utilizando **ASP.NET Core Web API**, **React**, **Entity Framework Core** e **SQLite** para gerenciamento de pessoas e transações financeiras.
 
 ---
 
